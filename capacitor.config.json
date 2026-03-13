@@ -1,0 +1,20 @@
+{
+  "appId": "com.prospera.kajiapp",
+  "appName": "KAJI AI",
+  "webDir": "android/app/src/main/assets/www",
+  "bundledWebRuntime": false,
+  "android": {
+    "allowMixedContent": true,
+    "captureInput": true,
+    "webContentsDebuggingEnabled": false
+  },
+  "server": {
+    "androidScheme": "https",
+    "cleartext": true
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}

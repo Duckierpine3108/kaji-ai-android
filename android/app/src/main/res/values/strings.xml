@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KAJI AI</string>
+    <string name="title_activity_main">KAJI AI</string>
+    <string name="package_name">com.prospera.kajiapp</string>
+    <string name="custom_url_scheme">kajiapp</string>
+</resources>

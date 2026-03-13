@@ -1,0 +1,2 @@
+rootProject.name = 'KAJI AI'
+include ':app'

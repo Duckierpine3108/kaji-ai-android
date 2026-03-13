@@ -1,0 +1,12 @@
+{
+  "name": "kaji-ai-android",
+  "version": "7.0.0",
+  "description": "KAJI AI Android App by Kamran Jalil Khan - ProsperaOS",
+  "scripts": {
+    "build": "echo KAJI AI Android - use GitHub Actions to build APK"
+  },
+  "dependencies": {
+    "@capacitor/android": "^5.7.0",
+    "@capacitor/core": "^5.7.0"
+  }
+}
